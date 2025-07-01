@@ -1,0 +1,14 @@
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\console_inventory_management_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\console_inventory_management_application.AssemblyInfoInputs.cache
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\console_inventory_management_application.AssemblyInfo.cs
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\console_inventory_management_application.csproj.CoreCompileInputs.cache
+C:\Git Project\C#\console_inventory_management_application\bin\Debug\net9.0\console_inventory_management_application.exe
+C:\Git Project\C#\console_inventory_management_application\bin\Debug\net9.0\console_inventory_management_application.deps.json
+C:\Git Project\C#\console_inventory_management_application\bin\Debug\net9.0\console_inventory_management_application.runtimeconfig.json
+C:\Git Project\C#\console_inventory_management_application\bin\Debug\net9.0\console_inventory_management_application.dll
+C:\Git Project\C#\console_inventory_management_application\bin\Debug\net9.0\console_inventory_management_application.pdb
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\console_inventory_management_application.dll
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\refint\console_inventory_management_application.dll
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\console_inventory_management_application.pdb
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\console_inventory_management_application.genruntimeconfig.cache
+C:\Git Project\C#\console_inventory_management_application\obj\Debug\net9.0\ref\console_inventory_management_application.dll
